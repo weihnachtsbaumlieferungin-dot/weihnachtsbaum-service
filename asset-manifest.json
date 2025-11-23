@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.21bad516.css",
-    "main.js": "/home/static/js/main.bff92326.js",
-    "static/js/453.81b67b8b.chunk.js": "/home/static/js/453.81b67b8b.chunk.js",
-    "index.html": "/home/index.html",
-    "main.21bad516.css.map": "/home/static/css/main.21bad516.css.map",
-    "main.bff92326.js.map": "/home/static/js/main.bff92326.js.map",
-    "453.81b67b8b.chunk.js.map": "/home/static/js/453.81b67b8b.chunk.js.map"
+    "main.css": "/weihnachtsbaum-service/static/css/main.21bad516.css",
+    "main.js": "/weihnachtsbaum-service/static/js/main.503313dd.js",
+    "static/js/453.81b67b8b.chunk.js": "/weihnachtsbaum-service/static/js/453.81b67b8b.chunk.js",
+    "index.html": "/weihnachtsbaum-service/index.html",
+    "main.21bad516.css.map": "/weihnachtsbaum-service/static/css/main.21bad516.css.map",
+    "main.503313dd.js.map": "/weihnachtsbaum-service/static/js/main.503313dd.js.map",
+    "453.81b67b8b.chunk.js.map": "/weihnachtsbaum-service/static/js/453.81b67b8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21bad516.css",
-    "static/js/main.bff92326.js"
+    "static/js/main.503313dd.js"
   ]
 }
