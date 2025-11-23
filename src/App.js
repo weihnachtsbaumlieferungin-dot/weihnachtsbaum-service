@@ -23,7 +23,7 @@ export default function ChristmasTreeService() {
   });
   const [orderComplete, setOrderComplete] = useState(false);
 
-  const FORMSPREE_ID = "xnnrkpwr";
+  const FORMSUBMIT_ID = "f6850ffa437eaa5b84840a3aa0d10343";
 
   const CONTACT_EMAIL = "weihnachtsbaumlieferungIN@gmail.com";
 
@@ -129,7 +129,7 @@ export default function ChristmasTreeService() {
         <form
           onSubmit={(e) => {
             e.preventDefault(); // Standard-Weiterleitung verhindern
-            fetch(`https://formsubmit.co/${CONTACT_EMAIL}`, {
+            fetch(`https://formsubmit.co/${FORMSUBMIT_ID}`, {
               method: "POST",
               body: new FormData(e.target),
             })
@@ -599,7 +599,7 @@ export default function ChristmasTreeService() {
       <div className="bg-gray-800 text-white py-8">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-gray-400">
-            © 2024 Weihnachtsbaum-Service Ingolstadt | Frohe Weihnachten! 🎄
+            © 2025 Weihnachtsbaum-Service Ingolstadt | Frohe Weihnachten! 🎄
           </p>
         </div>
       </div>
