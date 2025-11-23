@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weihnachtsbaum-service/static/css/main.e4e57842.css",
-    "main.js": "/weihnachtsbaum-service/static/js/main.f0f66c1b.js",
+    "main.js": "/weihnachtsbaum-service/static/js/main.369f4497.js",
     "static/js/453.81b67b8b.chunk.js": "/weihnachtsbaum-service/static/js/453.81b67b8b.chunk.js",
     "index.html": "/weihnachtsbaum-service/index.html",
     "main.e4e57842.css.map": "/weihnachtsbaum-service/static/css/main.e4e57842.css.map",
-    "main.f0f66c1b.js.map": "/weihnachtsbaum-service/static/js/main.f0f66c1b.js.map",
+    "main.369f4497.js.map": "/weihnachtsbaum-service/static/js/main.369f4497.js.map",
     "453.81b67b8b.chunk.js.map": "/weihnachtsbaum-service/static/js/453.81b67b8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4e57842.css",
-    "static/js/main.f0f66c1b.js"
+    "static/js/main.369f4497.js"
   ]
 }
